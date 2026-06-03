@@ -1,1 +1,1 @@
-Usage: setres <width> <height>
+Usage: setres {width} {height}
