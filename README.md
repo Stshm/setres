@@ -1,0 +1,1 @@
+Usage: setres <width> <height>
